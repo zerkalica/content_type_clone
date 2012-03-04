@@ -1,0 +1,13 @@
+name = Content type clone
+description = Allows admins to clone existing content type.
+package = Content
+version = VERSION
+core = 7.x
+configure = admin/structure/types
+files[] = content_type_clone.module
+
+; Information added by drupal.org packaging script on 2012-02-01
+version = "7.12"
+project = "content_type_clone"
+datestamp = "1328134560"
+
